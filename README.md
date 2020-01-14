@@ -1,2 +1,3 @@
-# fokin-weather3
+# Fokin Weather
+
 Learning React Native by Building a Fokin Weather App
